@@ -1,4 +1,4 @@
-# CRUD app made with Python (flask) 
+# flask test app
 <p> I used mamp to run my database server </p>
 Installed Packages
 <ul>
